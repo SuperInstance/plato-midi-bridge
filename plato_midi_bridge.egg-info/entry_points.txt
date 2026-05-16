@@ -1,3 +1,0 @@
-[console_scripts]
-plato-midi-bridge = plato_midi_bridge.cli:main
-

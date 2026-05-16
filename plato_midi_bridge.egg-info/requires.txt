@@ -1,4 +1,0 @@
-numpy
-
-[torch]
-torch>=2.0.0
